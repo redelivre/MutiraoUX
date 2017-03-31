@@ -1,7 +1,7 @@
 # MutiraoUX
 Repositório para organizar o projeto de Gestão de Tecnologia de Informação relacionado ao edital 076/206 - http://www.fupef.ufpr.br/wp-content/uploads/2016/12/EDITAL-n%C2%BA-076_2016-.pdf
 
-
+## Ferramentas Digitais 
 * x) ID Digital
 * a) Plataforma Delibera/CNPC 
 * b) Sistema de envio de e-mails 
@@ -9,7 +9,7 @@ Repositório para organizar o projeto de Gestão de Tecnologia de Informação r
 * d) Toolkit para consultas públicas 
 * e) Aplicativo mobile da plataforma Delibera.
 
-
+## Produtos do Edital
 * A. Organização e sistematização no github.com das demandas dos softwares a partir de 
 relacionamento com usuários e comunidades de desenvolvimento.
 * B. Estudo e modelagem com foco na experiência do usuário para potencializar a replicabilidade dos 
